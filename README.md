@@ -22,12 +22,6 @@
 
 ---
 
-##📊 GitHub Stats
-
-"Sahana's GitHub stats" (https://github-readme-stats.vercel.app/api?username=sahana8050&show_icons=true)
-
----
-
 ##📫 Connect with Me
 
 - 📧 Email: sahanar8050@gmail.com
