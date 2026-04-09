@@ -1,16 +1,38 @@
-## Hi there 👋
+##Hi there 👋 I'm Sahana
 
-<!--
-**sahana8050/sahana8050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a passionate about computer vision and building real-world intelligent systems.
+🌱 Currently learning: Web Development / Java / Python
+⚡ Interested in: Building real-world projects & improving coding skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🚀 Projects
+
+- 🔹 Project 1 –BEV occupancy mapping system.
+- 👉 Developed a system that transforms camera input into a bird’s-eye view to detect and map object occupancy for improved spatial analysis.
+- project view-
+-  "https://github.com/sahana8050/BEV--Project.git"
+---
+
+##🛠️ Tech Stack
+
+- 💡 Languages: Python,java.
+- 🌐 Web: HTML, CSS, JavaScript
+- ⚙️ Tools: Git, GitHub, VS Code ,OpenCV.
+
+---
+
+##📊 GitHub Stats
+
+"Sahana's GitHub stats" (https://github-readme-stats.vercel.app/api?username=sahana8050&show_icons=true)
+
+---
+
+##📫 Connect with Me
+
+- 📧 Email: sahanar8050@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sahana-r-32a085344
+
+---
+
+✨ “Always learning, always building.”
