@@ -29,4 +29,4 @@
 
 ---
 
-✨ “Always learning, always building.”
+✨ “Building skills today for better solutions tomorrow.”
